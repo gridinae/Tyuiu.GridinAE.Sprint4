@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.GridinAE.Sprint.Task0.V25.Lib\Tyuiu.GridinAE.Sprint4.Task0.V25.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.GridinAE.Sprint4.Task0.V25.Lib\Tyuiu.GridinAE.Sprint4.Task0.V25.Lib.csproj" />
   </ItemGroup>
 
 </Project>
