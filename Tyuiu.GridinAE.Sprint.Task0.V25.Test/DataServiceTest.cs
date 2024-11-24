@@ -1,6 +1,6 @@
-namespace Tyuiu.GridinAE.Sprint.Task0.V25.Test;
+namespace Tyuiu.GridinAE.Sprint4.Task0.V25.Test;
 
-using Tyuiu.GridinAE.Sprint.Task0.V25.Lib;
+using Tyuiu.GridinAE.Sprint4.Task0.V25.Lib;
 
 [TestClass]
 public class DataServiceTest

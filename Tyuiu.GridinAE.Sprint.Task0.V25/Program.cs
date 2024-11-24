@@ -1,4 +1,4 @@
-﻿using Tyuiu.GridinAE.Sprint.Task0.V25.Lib;
+﻿using Tyuiu.GridinAE.Sprint4.Task0.V25.Lib;
 
 Console.Title = "Спринт #4 | Выполнил: Гридин А. Е. | ИИПБ-24-2";
 Console.WriteLine("************************************************************************");

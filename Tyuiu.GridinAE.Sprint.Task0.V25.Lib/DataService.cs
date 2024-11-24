@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.GridinAE.Sprint.Task0.V25.Lib;
+﻿namespace Tyuiu.GridinAE.Sprint4.Task0.V25.Lib;
 
 using tyuiu.cources.programming.interfaces.Sprint4;
 
