@@ -27,7 +27,7 @@ for(int i = 1; i <= 13; i++)
     i++;
 
     array[i - 1] = Convert.ToInt32(input);
-}W
+}
 
 Console.WriteLine("************************************************************************");
 Console.WriteLine("* РЕЗУЛЬТАТ:                                                           *");
