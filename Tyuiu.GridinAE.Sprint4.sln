@@ -5,11 +5,11 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{3D91E56C-4E14-48F8-B300-71B944C74A92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GridinAE.Sprint.Task0.V25", "Tyuiu.GridinAE.Sprint.Task0.V25\Tyuiu.GridinAE.Sprint.Task0.V25.csproj", "{5BA6FFD9-0BD8-4772-A39A-3952C99FFF0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GridinAE.Sprint4.Task0.V25", "Tyuiu.GridinAE.Sprint.Task0.V25\Tyuiu.GridinAE.Sprint4.Task0.V25.csproj", "{5BA6FFD9-0BD8-4772-A39A-3952C99FFF0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GridinAE.Sprint.Task0.V25.Lib", "Tyuiu.GridinAE.Sprint.Task0.V25.Lib\Tyuiu.GridinAE.Sprint.Task0.V25.Lib.csproj", "{6BE54C9D-552C-4AD3-AE49-2F52F99FBA8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GridinAE.Sprint4.Task0.V25.Lib", "Tyuiu.GridinAE.Sprint.Task0.V25.Lib\Tyuiu.GridinAE.Sprint4.Task0.V25.Lib.csproj", "{6BE54C9D-552C-4AD3-AE49-2F52F99FBA8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GridinAE.Sprint.Task0.V25.Test", "Tyuiu.GridinAE.Sprint.Task0.V25.Test\Tyuiu.GridinAE.Sprint.Task0.V25.Test.csproj", "{14CA17C7-A98E-4D3D-B620-212A3BCEE87F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GridinAE.Sprint4.Task0.V25.Test", "Tyuiu.GridinAE.Sprint.Task0.V25.Test\Tyuiu.GridinAE.Sprint4.Task0.V25.Test.csproj", "{14CA17C7-A98E-4D3D-B620-212A3BCEE87F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
